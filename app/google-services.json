@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "862426612259",
+    "firebase_url": "https://proj-5233a.firebaseio.com",
+    "project_id": "proj-5233a",
+    "storage_bucket": "proj-5233a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862426612259:android:a7b308a684280b7d",
+        "android_client_info": {
+          "package_name": "com.example.yash.qwerty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862426612259-8u2ohc817cvj8vm4vp3kccihfnnghffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQEahXjZDZyJK7ZWnuE_-69gTpIfgE2ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
